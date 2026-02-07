@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'PT Sans Narrow';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://web.archive.org/web/20250916134415im_/https://fonts.gstatic.com/s/ptsansnarrow/v19/BngRUXNadjH0qYEzV7ab-oWlsbCGwRg.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 13:44:15 Sep 16, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:18:09 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.893
+  exclusion.robots: 0.025
+  exclusion.robots.policy: 0.011
+  esindex: 0.013
+  cdx.remote: 17.209
+  LoadShardBlock: 172.71 (6)
+  PetaboxLoader3.datanode: 195.706 (7)
+  load_resource: 124.4
+  PetaboxLoader3.resolve: 45.112
+*/
